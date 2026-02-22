@@ -1,0 +1,12 @@
+{
+  "name": "discord-status-role",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
